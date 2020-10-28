@@ -1,6 +1,6 @@
 # matching_game
 
-A new Flutter project.
+You can look appImages folder for how app look.
 
 ## Getting Started
 
