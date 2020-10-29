@@ -236,6 +236,7 @@ class _GamePageState extends State<GamePage> {
   void _showGameFinishDialog() {
     showDialog(
       context: context,
+      barrierDismissible: false,
       builder: (BuildContext context) => new AlertDialog(
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
