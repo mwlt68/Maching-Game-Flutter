@@ -1,7 +1,12 @@
 # matching_game
 
-You can look appImages folder for how app look.
+This is a matching game application that with development by flutter.
 
+# Project images
+![](appImages/GameFinishPage.PNG)
+![](appImages/GamePage.PNG)
+![](appImages/GamePage2.PNG)
+![](appImages/HomePage.PNG)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
