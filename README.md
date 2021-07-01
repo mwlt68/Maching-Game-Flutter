@@ -1,12 +1,14 @@
-# matching_game
+# Matching Game
 
-This is a matching game application that with development by flutter.
+This is a matching game application that with development with flutter. 
 
-# Project images
-![](appImages/GameFinishPage.PNG)
-![](appImages/GamePage.PNG)
-![](appImages/GamePage2.PNG)
-![](appImages/HomePage.PNG)
+It has been developed for user interface development with Flutter and to better understand the concept of State.
+
+# Project View
+Home View               |  Game View               | Game View               |  Finish View 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](appImages/HomePage.PNG?raw=true)|![](appImages/GamePage.PNG?raw=true)|![](appImages/GamePage2.PNG?raw=true)|![](appImages/GameFinishPage.PNG?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
